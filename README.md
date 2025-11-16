@@ -1,4 +1,5 @@
 # pizza-sales-analytics
+"C:\Users\mcmok\OneDrive\Pictures\Screenshots\Screenshot 2025-11-16 210937.png"
 📊 Pizza Sales Analysis — SQL & Power BI
 
 An end-to-end business intelligence project analyzing pizza sales data using SQL for data processing and Power BI for interactive dashboard creation.
